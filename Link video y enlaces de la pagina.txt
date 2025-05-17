@@ -1,0 +1,47 @@
+link del video
+https://youtu.be/G4PVUiAcCG0
+
+Enlace de la pagina: http://localhost:5174/
+
+rutas MySQL
+https://apimysql-pdb.onrender.com
+rutas mongo
+https://mongoapi-pdb.onrender.com
+Códigos del git 
+https://github.com/isabbb/MysqlApiPDB.git 
+https://github.com/isabbb/ProyectofinalPBD.git
+
+
+
+carros:
+https://mongoapi-pdb.onrender.com
+/api/carros/obtenerTodos
+/api/carros/addCarro
+/api/carros/editarCarro/:id
+/api/carros/eliminarCarro/:id
+/api/carros/buscarCarro
+
+rutas MySQL
+https://apimysql-pdb.onrender.com
+reparaciones 
+/Zautos/reparaciones/traer
+/Zautos/reparaciones/traerporid/:id'
+/Zautos/reparaciones/crear
+/Zautos/reparaciones/actualizar/:id
+/Zautos/reparaciones/eliminar/:id
+
+servicio
+/Zautos/servicios/traer
+/Zautos /servicios/traerporid/:id
+/Zautos/servicios/crear
+/Zautos/servicios/actualizar/:id
+/Zautos/servicios/eliminar/:id
+
+
+vehículos
+/Zautos/vehiculos/traer
+/Zautos/vehiculos/traerpormarca/:marca
+/Zautos/vehiculos/traerporid/:id
+/Zautos/vehiculos/crear
+/Zautos/vehiculos/actualizar/:id
+/Zautos/vehiculos/eliminar/:id
